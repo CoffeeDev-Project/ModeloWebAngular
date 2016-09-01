@@ -1,0 +1,21 @@
+{
+  "name": "dashboard",
+  "description": "Inicialización de manejo en Front End",
+  "main": "index.js",
+  "authors": [
+    "Nicolás Valeria Burgos (nicolas.valeria.burgos@gmail.com)"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.7"
+  }
+}
